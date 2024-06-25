@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Data Analysis and Frontend Development.<br>I am pursuing my degree in BSc(Hons) Computing.
+I am pursuing my degree in BSc(Hons) Computing.
 
 
 ## 🌐 Socials:
